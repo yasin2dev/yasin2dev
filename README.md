@@ -9,6 +9,6 @@ I'm Yasin, just a people who has adopted reading, research and programming as a 
 ------
 
 <br>
-<img width="100%" height="160em" src="https://github-readme-stats.vercel.app/api?username=yasin2dev&show_icons=true&theme=dark&hide_border=true¾" />
+<img width="100%" height="240em" src="https://github-readme-stats.vercel.app/api?username=yasin2dev&show_icons=true&theme=dark&hide_border=true¾" />
 <br>
-<img width="100%" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin2dev&langs_count=9&layout=compact&theme=dark" />
+<img width="100%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin2dev&langs_count=9&layout=compact&theme=dark" />
