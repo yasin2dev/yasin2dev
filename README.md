@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Yasin, just a people who has adopted reading, research and programming as a philosophy.
 
-<!--
-**yasin2dev/yasin2dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Python, Javascript, HTML/CSS
+- 🌱 I’m currently learning C/C++, Go
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+
+<br>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yasin2dev&show_icons=true&theme=dark&hide_border=true¾" />
+<br>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin2dev&langs_count=9&layout=compact&theme=dark" />
